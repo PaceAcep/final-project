@@ -9,7 +9,7 @@ const Footer = () => {
              
             <Text align="center">
                 <p className="studentName">RESA DWI TRISTANTO</p>
-                <p className="studentID">FE4986595</p>
+                <p className="studentId">FE4986595</p>
             </Text>
             
         </Box>

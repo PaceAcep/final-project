@@ -176,9 +176,9 @@ const EditStudent = () => {
                                     Edit Student
                                 </Button>
                             </form>
-                                <Footer />
                         </>
                     )}
+                    <Footer />
             </div>
             {/* TODO: answer here */}
         </>
